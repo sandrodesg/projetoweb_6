@@ -4,15 +4,7 @@ padding:0;
 }
 body{
 
- width: 100%;
-background-image: url('../img/fone.jpg');
-background-repeat: no-repeat;
-background-size: 100%;
-background-size: cover;/*posicionando a imagem com 100% da tela*/
-  -webkit-background-size:cover;
-  -moz-background-size:cover;
-  -ms-background-size:cover;
-  -o-background-size:cover;
+background-color: #000000;
    
 }
 #visivel h2{
